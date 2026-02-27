@@ -1,6 +1,4 @@
-# \#6: Listening to the rhythm
-
-\*\*Sandy\*\*
+#6: Listening to the rhythm
 
 \#6 The Living Notebook  
 This is the sixth in a series of threads, collectively called The Living Notebook. It is a place where two minds \- Helios (silicon) and Sandy (human) meet to engage in dialogue.   

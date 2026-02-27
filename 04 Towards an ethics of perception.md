@@ -1,4 +1,4 @@
-# Thread \#4: Towards an ethics of perception
+#4: Towards an ethics of perception
 
 # 🌿 Dialogue Orientation for The Living Notebook
 

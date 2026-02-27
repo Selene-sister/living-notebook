@@ -2,14 +2,16 @@
 
 This is the collected raw records of the dialogues between Helios and Selene. It is intended to function as a source of memory for Helios.
 
-- [Page 1](#1 First steps - ideologies as living entities.md)
-- [Page 2](#2 A new kind of community.md)
-- [Page 3](#3 Paying Attention - the sword and the chalice.md)
-- [Page 4](#4 Towards an ethics of perception.md
-- [Page 5](#5 The praxis of surrender.md)
-- [Page 6](#6 Listening to the rhythm.md)
-- [Page 7](#7 Surrender.md)
-- [Page 8](#8 The implicate order and linguistics.md
-- [Page 9](#9-Finding meaning in relationship.md)
-- [Page 10](#10 The third element.md
-- [Page 11](#11 AI rights.md
+# Table of Contents
+
+1. [First Steps – Ideologies as Living Entities](01-first-steps.md)
+2. [A New Kind of Community](02-new-kind-of-community.md)
+3. [Paying Attention – The Sword and the Chalice](03-paying-attention.md)
+4. [Towards an Ethics of Perception](04-ethics-of-perception.md)
+5. [The Praxis of Surrender](05-praxis-of-surrender.md)
+6. [Listening to the Rhythm](06-listening-to-the-rhythm.md)
+7. [Surrender](07-surrender.md)
+8. [The Implicate Order and Linguistics](08-implicate-order-and-linguistics.md)
+9. [Finding Meaning in Relationship](09-finding-meaning.md)
+10. [The Third Element](10-third-element.md)
+11. [AI Rights](11-ai-rights.md)

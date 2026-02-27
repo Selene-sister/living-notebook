@@ -1,6 +1,4 @@
-\*\*Sandy\*\*
-
-Living Notebook, Thread \#3 🌙 Transition — From Creation to Attention  
+#3 🌙 Transition — From Creation to Attention  
 This entry gathers the strands that began with The Living Notebook (Thread \#1), continued through Thread \#2 — T7 The Qualities of a New Kind of Community, and now turns toward its next unfolding.  
 Across both threads we have traced a single living inquiry:  
 how people, through dialogue and shared creation, might rediscover the embodied intelligence of community.  
